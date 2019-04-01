@@ -27,11 +27,11 @@ Performance Efficiency: 3.40 CoreMark/MHz*
 
 [![sites](SoC/block.png)](https://static.docs.arm.com/100166/0001/arm_cortexm4_processor_trm_100166_0001_00_en.pdf?_ga=2.62546730.766983196.1554088020-388810603.1547621381) 
 
-### [已收录MCU](https://github.com/sochub/CM4)
+### [已收录](https://github.com/sochub/CM4)
 
-#### [STM32F4系列](https://github.com/sochub/STM32F4) 
+- [STM32F4系列](https://github.com/sochub/STM32F4) 
 
-#### [NRF52系列](https://github.com/sochub/NRF52) 
+- [NRF52系列](https://github.com/sochub/NRF52) 
 
 
 ##  [SoC开发平台](http://www.qitas.cn)  
