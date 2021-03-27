@@ -1,0 +1,26 @@
+Local_Release/
+*.pyc
+*ICENS*
+COPY*
+*CONTRIBU*
+AUTH*
+*PATCH*
+*.txt
+!CMakeLists.txt
+Change*
+CHANGE*
+README*
+asf4/
+nxp*/
+docs/
+doc/
+*.md
+.vscode/
+__pycache__/
+*.pyc
+/build
+*/*/.travis*
+# Source/*
+Source/Templates/iar/
+!Source/Templates/gcc/
+!Source/Templates/system_stm32f0xx.c
