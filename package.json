@@ -1,5 +1,5 @@
 {
-  "name": "cmsis-stm32f0",
+  "name": "framework-cmsis-stm32f0",
   "version": "2.3.4",
   "description": "CMSIS component for the STMicroelectronics STM32F0 series",
   "keywords": [

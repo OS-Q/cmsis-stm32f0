@@ -9,7 +9,6 @@ AUTH*
 !CMakeLists.txt
 Change*
 CHANGE*
-README*
 asf4/
 nxp*/
 docs/
@@ -24,3 +23,5 @@ __pycache__/
 Source/Templates/iar/
 !Source/Templates/gcc/
 !Source/Templates/system_stm32f0xx.c
+_htmresc
+Release_Notes*
